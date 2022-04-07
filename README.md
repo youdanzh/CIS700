@@ -23,3 +23,5 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 - [ ] propsal
 - [ ] Implement code
 - [ ] report
+- [ ] read & understand paper
+- [ ] presentation slides
