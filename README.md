@@ -1,13 +1,13 @@
 # CIS700
 
-Datasets:
+## Datasets:
 <br /> 1. HOList https://sites.google.com/view/holist/home
 <br /> related paper: https://arxiv.org/pdf/1905.10006v2.pdf
 
 
 <br /> 2.HOLstep: http://cl-informatik.uibk.ac.at/cek/holstep/
 <br /> related paper:http://cl-informatik.uibk.ac.at/cek/holstep/ckfccs-holstep-submitted.pdf
-https://paperswithcode.com/paper/improving-graph-neural-network
+<br /> https://paperswithcode.com/paper/improving-graph-neural-network
 <br /> 
 
 <br /> 3. miz40 and m2k  https://github.com/JUrban/deepmath
@@ -17,6 +17,9 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 <br /> 4.proofwriter https://allenai.org/data/proofwriter
 <br /> related paper:https://aclanthology.org/2021.findings-acl.317.pdf
 
-codes packages and datas:
+## codes packages and datas:
 <br /> CoqGym: https://github.com/princeton-vl/CoqGym
-
+## Task lists:
+- [ ] propsal
+- [ ] Implement code
+- [ ] report
