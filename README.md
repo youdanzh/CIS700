@@ -8,7 +8,8 @@
 <br />
 <br /> 
 
-<br /> 2. miz40 and m2k  https://github.com/JUrban/deepmath
+<br /> 2. mizar http://www.mizar.org/library/
+https://github.com/JUrban/deepmath
 <br /> related paper:https://proceedings.neurips.cc/paper/2018/file/55acf8539596d25624059980986aaa78-Paper.pdf
 https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_saturation_focusedAAAI21.pdf
 <br /> 
