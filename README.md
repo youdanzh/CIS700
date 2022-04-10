@@ -18,6 +18,11 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 <br /> related paper:https://aclanthology.org/2021.findings-acl.317.pdf
 
 ## codes packages and datas:
+<br /> mizar40 project
+https://github.com/mirefek/HolStep-Tree
+holstep dataset project
+https://github.com/vpapia/DS504-Final-Project
+
 <br /> CoqGym: https://github.com/princeton-vl/CoqGym
 ## Task lists:
 - [ ] propsal
