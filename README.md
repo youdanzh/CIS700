@@ -20,12 +20,21 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 ## codes packages and datas:
 <br /> mizar40 project
 https://github.com/mirefek/HolStep-Tree
-<br />holstep dataset project
+<br /> holstep dataset project
 https://github.com/vpapia/DS504-Final-Project
 
 <br /> CoqGym: https://github.com/princeton-vl/CoqGym
+## Proposal
+- Name: Youdan Zhang, Yehya Farhat, Peter Valentine
+
+- SUEmail:yzhan143@syr.edu,pjvalent@syr.edu,ymfarhat@syr.edu
+
+- Dataset:
+
+- Model:
+
 ## Task lists:
-- [ ] propsal
+- [x] propsal
 - [ ] Implement code
 - [ ] report
 - [ ] read & understand paper
