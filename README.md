@@ -27,7 +27,7 @@ https://github.com/vpapia/DS504-Final-Project
 ## Proposal
 - Name: Youdan Zhang, Yehya Farhat, Peter Valentine
 
-- SUEmail:yzhan143@syr.edu,pjvalent@syr.edu,ymfarhat@syr.edu
+- SUEmail:yzhan143@syr.edu, ymfarhat@syr.edu, pjvalent@syr.edu
 
 - Dataset:
 
