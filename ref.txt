@@ -1,1 +1,1 @@
-https://github.com/youdanzh/CIS700-projects
+https://github.com/princeton-vl/FormulaNet
