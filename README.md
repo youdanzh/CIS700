@@ -23,13 +23,15 @@ https://github.com/mirefek/HolStep-Tree
 <br /> holstep dataset project
 https://github.com/vpapia/DS504-Final-Project
 
+<br/> semi-supervised GCN https://github.com/kimiyoung/planetoid
+
 <br /> CoqGym: https://github.com/princeton-vl/CoqGym
 ## Proposal
 - Name: Youdan Zhang, Yehya Farhat, Peter Valentine
 
 - SUEmail:yzhan143@syr.edu, ymfarhat@syr.edu, pjvalent@syr.edu
 
-- Dataset:
+- Dataset: Holstep
 
 - Model:
 
