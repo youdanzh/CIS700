@@ -28,7 +28,7 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 
 - SUEmail:yzhan143@syr.edu, ymfarhat@syr.edu, pjvalent@syr.edu
 
-- Dataset: Holstep
+- Dataset: Holstep Mizar
 
 - Model: We will be using the GCN model presented in this paper as our baseline https://arxiv.org/pdf/1609.02907.pdf 
 
