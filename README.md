@@ -30,7 +30,7 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 
 - Dataset: Holstep
 
-- Model: GCN 
+- Model: GCN https://arxiv.org/pdf/1609.02907.pdf  , change the similiarity matrix to beat the baseline 
 
 ## Task lists:
 - [x] propsal
