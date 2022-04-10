@@ -20,7 +20,7 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 ## codes packages and datas:
 <br /> mizar40 project
 https://github.com/mirefek/HolStep-Tree
-holstep dataset project
+<br />holstep dataset project
 https://github.com/vpapia/DS504-Final-Project
 
 <br /> CoqGym: https://github.com/princeton-vl/CoqGym
