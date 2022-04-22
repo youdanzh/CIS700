@@ -39,6 +39,7 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 ### Resources
 - source code for the paper
 <br /> https://github.com/MarkusRabe/cadet
+https://github.com/lederg/learningqbf
 
 
 ### Presentation Content
