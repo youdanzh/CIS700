@@ -21,7 +21,9 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 <br /> https://github.com/vpapia/DS504-Final-Project
 <br /> https://github.com/princeton-vl/FormulaNet
 
-<br/> semi-supervised GCN https://github.com/kimiyoung/planetoid
+<br/> GCN notebook: https://colab.research.google.com/drive/1qBATaKrLthvbwyJHWkT3Zdq0Py1FHv0P?usp=sharing
+<br/> GCN repo:https://github.com/tkipf/gcn
+<br/> GCN dataset split https://github.com/kimiyoung/planetoid
 
 ## Proposal
 - Name: Youdan Zhang, Yehya Farhat, Peter Valentine
