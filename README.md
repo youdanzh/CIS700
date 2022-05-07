@@ -22,7 +22,7 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 <br /> https://github.com/princeton-vl/FormulaNet
 
 
-#### HOLstep to GCN https://arxiv.org/abs/1911.06904
+#### https://arxiv.org/pdf/2002.00423.pdf
 
 #### https://arxiv.org/pdf/1911.02065.pdf
 
