@@ -24,6 +24,8 @@ https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_satu
 
 #### HOLstep to GCN https://arxiv.org/abs/1911.06904
 
+#### https://arxiv.org/pdf/1911.02065.pdf
+
 <br/> GCN notebook: https://colab.research.google.com/drive/1qBATaKrLthvbwyJHWkT3Zdq0Py1FHv0P?usp=sharing
 <br/> GCN repo:https://github.com/tkipf/gcn
 <br/> GCN dataset split https://github.com/kimiyoung/planetoid
