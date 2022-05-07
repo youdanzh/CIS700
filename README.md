@@ -63,5 +63,5 @@ https://github.com/lederg/learningqbf
 - [x] propsal
 - [ ] Implement code
 - [ ] report
-- [ ] read & understand paper
-- [ ] presentation slides
+- [x] read & understand paper
+- [x] presentation slides
