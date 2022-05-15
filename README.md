@@ -1,5 +1,7 @@
 # CIS700
-This repository serves as a code hosting repository for CIS700 Deep learning and theorem proving final project. The included google Colab notebook contains the code. It is necessary to upload the holstep data to a 'data/' directory in colab to run the code. To do this, take the first 30 files from the holstep training set and upload them to a directory called data in the colab notebook. In addition to this, upload a verificaiton file for verification. Ensure that the paths are correctly set in the colab code. 
+This repository serves as a code hosting repository for CIS700 Deep learning and theorem proving final project. The included google Colab notebook contains the code. It is necessary to upload the holstep data to a 'smaller_train/' directory in colab to run the code. for best code reproducibility upload only the first 5-10 files from the holstep train folder and for validation and testing upload any file from the holstep test folder to the root colab directory, but it is best if the 0005 is used as it is the one used in our project because its a mid sized file compared to the rest. 
+
+
 
 ## codes packages and datas:
 <br /> holstep dataset project: http://cl-informatik.uibk.ac.at/cek/holstep/
