@@ -1,74 +1,25 @@
 # CIS700
-
-## Paper:https://paperswithcode.com/paper/improving-graph-neural-network
-## Datasets:
-
-<br /> 1.HOLstep: http://cl-informatik.uibk.ac.at/cek/holstep/
-<br /> related paper:http://cl-informatik.uibk.ac.at/cek/holstep/ckfccs-holstep-submitted.pdf
-<br />
-<br /> 
-
-<br /> 2. mizar http://www.mizar.org/library/
-https://github.com/JUrban/deepmath
-<br /> related paper:https://proceedings.neurips.cc/paper/2018/file/55acf8539596d25624059980986aaa78-Paper.pdf
-https://www.qrg.northwestern.edu/papers/Files/QRG_Dist_Files/QRG_2021/trail_saturation_focusedAAAI21.pdf
-<br /> 
+This repository serves as a code hosting repository for CIS700 Deep learning and theorem proving final project. The included google Colab notebook contains the code. It is necessary to upload the holstep data to a 'data/' directory in colab to run the code. To do this, take the first 30 files from the holstep training set and upload them to a directory called data in the colab notebook. In addition to this, upload a verificaiton file for verification. Ensure that the paths are correctly set in the colab code. 
 
 ## codes packages and datas:
-<br /> mizar40 project
-<br /> https://github.com/BartoszPiotrowski/ATPboost
-<br /> holstep dataset project
-<br /> https://github.com/vpapia/DS504-Final-Project
-<br /> https://github.com/princeton-vl/FormulaNet
+<br /> holstep dataset project: http://cl-informatik.uibk.ac.at/cek/holstep/
 
+#### Attention is all you need: https://arxiv.org/abs/1706.03762
 
 #### https://arxiv.org/pdf/2002.00423.pdf
 
 #### https://arxiv.org/pdf/1911.02065.pdf
 
-<br/> GCN notebook: https://colab.research.google.com/drive/1qBATaKrLthvbwyJHWkT3Zdq0Py1FHv0P?usp=sharing
-<br/> GCN repo:https://github.com/tkipf/gcn
-<br/> GCN dataset split https://github.com/kimiyoung/planetoid
 
 ## Proposal
 - Name: Youdan Zhang, Yehya Farhat, Peter Valentine
 
 - SUEmail:yzhan143@syr.edu, ymfarhat@syr.edu, pjvalent@syr.edu
 
-- Dataset: Holstep Mizar
+- Dataset: Holstep
 
-- Model: We will be using the GCN model presented in this paper as our baseline https://arxiv.org/pdf/1609.02907.pdf 
+- Model: We will be using a transformer model trainnig on the Holstep dataset to train the transformer to predict if steps in theorem proving are useful or not. 
 
-- in the above paper the main technique used by the authors to improve prediciton accuracy is by passing in a symmetric adjacency matrix A (binary or weighted) to the model before training. in our project we will try to pass in other similarity metrics before training and measure it agaisnt the baseline metric (A hat)
-
-## Paper Presentation
-
-### Resources
-- source code for the paper
-<br /> https://github.com/MarkusRabe/cadet
-https://github.com/lederg/learningqbf
+- In attention is all you need, the authors propose the multi head attention transformer model to learn translation tasks on input sequences. For our purposes we will be utilizing the transformer model to predict the usefulness of steps in automated theorem proving problems in the Holstep data set. 
 
 
-### Presentation Content
-- Title
-- Introduction (motivation, main idea)
-- Improvments and Theorems
-  - Boolean logic and ALGORITHMS
-    - Proof for correctness
-  - problem definition
-    - BASELINES
-  - Neural Network
-- Experiments
-  - Datasets
-  - Rewards and Trainings
-  - Sample code
-  - Performance visualization(results)
-- Conclusion
-
-
-## Task lists:
-- [x] propsal
-- [ ] Implement code
-- [ ] report
-- [x] read & understand paper
-- [x] presentation slides
